@@ -17,7 +17,7 @@ let songs = [
     {songName:"Legion", filePath:"songs/6.mpeg", coverPath:"covers/6.jpg"},
     {songName:"Rabba", filePath:"songs/7.mpeg", coverPath:"covers/7.jpg"},
     {songName:"Bhula dena mujhe", filePath:"songs/8.mpeg", coverPath:"covers/8.jpg"},
-    {songName:"rishtedaar chutiye", filePath:"songs/9.mpeg", coverPath:"covers/9.jpg"}
+    {songName:"Ringtone", filePath:"songs/9.mpeg", coverPath:"covers/9.jpg"}
 ]
 
 for(i=0; i<songs.length; i++){
